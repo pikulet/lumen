@@ -12,12 +12,12 @@ const Author = () => {
       <p className={styles['author__bio']}>
         {author.bio}
         <a
-          className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.twitter)}
+          className={styles['author__bio-github']}
+          href={getContactHref('twitter', author.contacts.github)}
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          Find me on GitHub
         </a>
       </p>
     </div>
