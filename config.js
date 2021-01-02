@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://joyceyeo.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Joyce Yeo | Developer',
+  subtitle: 'Final-year Comp Sci @ NUS.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 6,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -16,35 +16,26 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
+      label: 'Experience',
+      path: '/pages/resume'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Joyce Yeo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'All up for puzzles and games. Well-versed in python, learning golang.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
+      email: 'jycyeo@yahoo.com.sg',
+      github: 'pikulet',
+      linkedin: 'joyceyeoshuhui',
     }
   }
 };
