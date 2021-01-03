@@ -5,6 +5,15 @@ template: "page"
 
 Check out more on [GitHub](https://github.com/pikulet)!
 
+### FlaskShort ###
+* A URL shortener with a complete backend system, using Flask, FlaskBootstrap, PostgreSQL.
+* [Demo](http://pikulet-short-url.herokuapp.com/) | [Repository](https://github.com/pikulet/flask-short)
+
+### Ghost ###
+**Python package for a word game**
+* Created a Finite State Machine Game Engine that can be used by various applications (web, mobile).
+* [PyPi Package](https://pypi.org/simple/ghost-word-game/) | [Repository](https://github.com/pikulet/ghost)
+
 ### Dynalite ###
 **Internet-of-Things using RaspberryPi and COAP**
 * Created a light-detection system to retrieve data on room occupancy rates. Finds available study spaces in school.
