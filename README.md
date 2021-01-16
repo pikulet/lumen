@@ -1,6 +1,6 @@
 # :bulb: Lumen :bulb:
 
-:exclamation: This is my personal website, which is a fork of [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) cutomised to my own liking. :exclamation:
+:exclamation: This is a fork of [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) :exclamation:
 
 I love lumen for its super simplistic design, and how it enables me to pen my thoughts down.
 
