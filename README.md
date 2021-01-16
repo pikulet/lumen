@@ -1,8 +1,8 @@
-# Thank you!
+# :bulb: Lumen :bulb:
 
-this is a fork of [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) cutomised to my own liking
+:exclamation: This is my personal website, which is a fork of [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) cutomised to my own liking. :exclamation: I love lumen for its super simplistic design, and how it enables me to pen my thoughts down.
 
-# Getting Started
+# :dolphin: Getting Started
 
 1. Install `nvm`
 
