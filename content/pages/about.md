@@ -9,4 +9,4 @@ I'm a final-year Computer Science undergrad at the National University of Singap
 
 > Check out some of my projects [here](/pages/projects/).
 
-A dilettante in graph theory and urban geography. I enjoy historical fiction and dystopian novels. Open to book recommendations(:
+A dilettante in recreational mathematics. I enjoy historical fiction and dystopian novels.
