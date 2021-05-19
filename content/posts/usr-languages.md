@@ -7,7 +7,7 @@ slug: "reflection-languages"
 category: "inquiry"
 tags:
   - "reflection"
-description: "Insights from Human Languages."
+description: "Insights from Human Languages. Part 2 of the Reflection series."
 ---
 
 An amateur programmer would easily find themselves lost in the multitude of programming languages that exist today. In NUS, the introductory programming class is offered in at least four variants (CS1010, CS1010S, CS1010E, CS1010J), each taught in a different programming language. I recall being confused which variant would be “best” for me, and what I would lose out from the other classes. However, as I progressed beyond the introductory module, I started to realise that NUS takes a language-agnostic approach to teaching programming. When assignments are given, we are given the option to complete them in a language of our choice, so long as the final product could be still be fairly assessed.

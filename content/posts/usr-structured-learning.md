@@ -7,7 +7,7 @@ slug: "reflection-structured-learning"
 category: "inquiry"
 tags:
   - "reflection"
-description: "The importance of the classroom in my education."
+description: "The importance of the classroom in my education. Part 1 of the Reflection series."
 ---
 
 Many of us were drawn into majoring in Computer Science by the wonders of what technology can do in our lives. Often, our well-meaning seniors would give us advice on how best to live these four years. A common thread we hear is the value of spending our free time learning new technologies and working on various side projects to give our portfolio that extra edge.
