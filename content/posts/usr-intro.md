@@ -1,6 +1,6 @@
 ---
 title: Reflection and New Meaning
-date: "2021-05-20"
+date: "2021-05-23"
 template: "post"
 draft: false
 slug: "reflection-intro"

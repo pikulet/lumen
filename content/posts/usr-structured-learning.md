@@ -1,6 +1,6 @@
 ---
 title: The Computer Science Tutorial
-date: "2021-05-21"
+date: "2021-05-22"
 template: "post"
 draft: false
 slug: "reflection-structured-learning"
@@ -52,7 +52,7 @@ Gradually, as I grew more confident, I was able to infuse my projects with my ow
 
 ![Flask Tutorial](/media/usr-p1-flask-tutorial.png)
 
-*The tutorial I followed was for a personal blog forum. Image credit: Flask Mega Tutorial by Miguel Grinberg.*
+*The tutorial I followed was for a personal blog forum. [Image credit: Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).*
 
 ![URL Shortener Project](/media/usr-p1-url-short.png)
 
