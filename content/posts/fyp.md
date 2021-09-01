@@ -1,5 +1,5 @@
 ---
-title: Honours Dissertation: Trusted Metering
+title: Honours Dissertation - Trusted Metering
 date: "2021-05-30"
 template: "post"
 draft: false
