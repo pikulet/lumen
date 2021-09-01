@@ -12,15 +12,15 @@ description: "Note on the Reflection series."
 
 ### Preface
 
-In my final semester at NUS, I took module on reflection, based loosely on John Dewey's work. Dewey first proposed the importance of reflection in the pedagogical process as a way to promote learning. He outlined criteria for reflection to take place and how meaning can be generated from past experiences, in both a solitary and communal manner. In the class, we were tasked to write a series of reflective posts based our experiences in the four years of university.
+In my final semester at NUS, I took module on reflection, based loosely on John Dewey's work. Dewey first proposed the importance of reflection in the pedagogical process as a way to promote learning. He outlined criteria for reflection to take place and how meaning can be generated from past experiences, in both a solitary and communal manner. In the class, we were tasked to write a series of reflective posts based on our experiences in the four years of university.
 
-The key to proper reflection is to first shift the focus away from the chocie of experience, towards the meaning from the experience. It is important not to invalidate our own experiences as "not being worthy of learning" and instead focus on what the experiences tell about ourselves. More importantly, reflection for Dewey active. It is not just about revealing the past, but also about bringing the reflective meanings to new experiences in our lives.
+The key to proper reflection is to first shift the focus away from the choice of experience, towards the meaning from the experience. It is important not to invalidate our own experiences as "not being worthy of learning" and instead focus on what the experiences tell about ourselves. More importantly, reflection for Dewey is active. It is not just about revealing the past, but also about bringing the reflective meanings to new experiences in our lives.
 
 # Hello, World
 
 I'm Joyce, a Computer Scientist by Training.
 
-I’ve always loved logic puzzles and mathematics, because they reveal innovative ways of looking at problems. This love for problem-solving led me to major in Computer Science, where I learnt how to apply my analytical skills in writing software.
+I’ve always loved logic puzzles and mathematics, because they reveal innovative ways of looking at problems. This love for problem-solving nudged me to major in Computer Science, where I learnt how to apply my analytical skills in writing software.
 
 At the same time, my experience in puzzles taught me that lateral thinking was an important skill. While learning about the ways of Computer Science, I was also concurrently pursuing multi-disciplinary studies at the University Scholars Program (USP). At USP, I had the opportunity to work closely with individuals trained differently in various majors at NUS, and it was enjoyable to both share my perspectives and hear about theirs.
 

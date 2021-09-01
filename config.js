@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://joyceyeo.netlify.app',
   pathPrefix: '/',
-  title: 'Joyce Yeo | Developer',
-  subtitle: 'Final-year Comp Sci @ NUS.',
+  title: 'Joyce Yeo',
+  subtitle: 'Software Engineer @ Shopee',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 6,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Joyce Yeo',
     photo: '/photo.jpg',
-    bio: 'All up for puzzles and games. Well-versed in python, learning golang.',
+    bio: 'All up for puzzles and games. Well-versed in python, golang.',
     contacts: {
       email: 'jycyeo@yahoo.com.sg',
       github: 'pikulet',

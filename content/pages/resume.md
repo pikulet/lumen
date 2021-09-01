@@ -3,7 +3,12 @@ title: "Professional Experience"
 template: "page"
 ---
 
-### GovTech Singapore | Cybersecurity Intern ###
+### Shopee Singapore | Engineer ###
+**May 2021 - Present**
+
+* Creating database products which improves the work efficiency of other software engineers in the organisation
+
+### GovTech Singapore | Cybersecurity Engineer ###
 **May 2020 - Jul 2020**
 
 * Project topic: Assessing the feasibility of applying Homomorphic Encryption solutions to government systems
@@ -16,7 +21,7 @@ template: "page"
 * CS1101S Programming Methodology I (AY18/19 Sem1, Sem 2) - feedback 4.5/5.0
 * CP2106 Independent Software Development Project (AY18/19 Summer) - Best Advisor Award
 
-### DSO National Laboratories | Research Intern (Computer Security) ###
+### DSO National Laboratories | Researcher (Computer Security) ###
 **May 2019 - Aug 2019**
 
 * Research topic: anti-analysis methods used by malware in Windows binaries
@@ -34,7 +39,7 @@ template: "page"
 
 * Offered the Ministry of Education Teaching Scholarship.
 
-### DSO National Laboratories | Research Intern (Cryptography) ###
+### DSO National Laboratories | Researcher (Cryptography) ###
 **May 2015 - Aug 2015**
 
 * Research topic: customisations to the Advanced Encryption Standard (AES)
