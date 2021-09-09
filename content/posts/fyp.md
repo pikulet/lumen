@@ -21,7 +21,7 @@ One of the early readings we got was an acclaimed paper, **Reflections on Trusti
 
 Your first line of thought would be to verify the compiler. But then we start to invoke a trust chain - how do we know that the compiler code is running as it had been written? Eventually, we arrive at one point and have to unequivocally trust what we are left with.
 
-In the case of Trusted Execution Environments, we trust the hardware. Even in such a model, we can already elucidate many loopholes for trust to be compromised. For instance, we'd have to trust the way that Intel manufactures their computer chips. But we draw a line and admit the problem - that there must be a static root of trust.
+In the case of my dissertation, we based our assumptions on Trusted Execution Environments, i.e. we trust the hardware. Even in such a model, we can already elucidate many loopholes for trust to be compromised. For instance, we'd have to trust the way that Intel manufactures their computer chips. But we draw a line and admit the problem - that there must be a static root of trust.
 
 The paper goes into more interesting points, and I particularly like one of its challenge: Self-Reproducing Programs, or **quines**. Can you write a program, that when executed, produces itself?
 
