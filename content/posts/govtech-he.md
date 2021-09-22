@@ -24,4 +24,4 @@ Nearing the end of my internship, I was invited to share about the topic with mo
 
 All in all, GovTech is a really cool place to spend a summer at. I only wished that the internship could take place in-person so that I could get to meet more people and experience the culture there.
 
-My presentation can be found [here](homomorphic-encryption-ppt.pdf).
+My presentation can be found [here](/homomorphic-encryption-ppt.pdf).
