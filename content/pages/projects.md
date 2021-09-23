@@ -7,7 +7,7 @@ Check out more on [GitHub](https://github.com/pikulet)!
 
 ### FlaskShort ###
 * A URL shortener with a complete backend system, using Flask, FlaskBootstrap, PostgreSQL.
-* [Demo](http://pikulet-short-url.herokuapp.com/) | [Repository](https://github.com/pikulet/flask-short)
+* [Repository](https://github.com/pikulet/flask-short)
 
 ### Ghost ###
 **Python package for a word game**
@@ -18,11 +18,11 @@ Check out more on [GitHub](https://github.com/pikulet)!
 **Internet-of-Things using RaspberryPi and COAP**
 * Created a light-detection system to retrieve data on room occupancy rates. Finds available study spaces in school.
 * I worked on the RaspberryPi module.
-* [Demo](https://www.evantay.com/tech/dynalite/) | [Repository](https://github.com/pikulet/dynalite) | [Presentation](/rpi.pdf)
+* [Demo](https://evantay.com/projects/#dynalite) | [Repository](https://github.com/pikulet/dynalite) | [Presentation](/rpi.pdf)
 
 ### tcptrace ###
 **Traceroute in TCP using C**
-* Created a primitive traceroute in TCP (cannot traverse HTTPS sites)
+* Created a primitive traceroute in TCP
 * [Blog Post](/posts/tcp-traceroute) | [Repository](https://github.com/pikulet/tcptrace)
 
 ### semacrawl ###
