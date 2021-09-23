@@ -1,5 +1,5 @@
 ---
-title: Hosting a Multiplayer game on a Private IP
+title: Hosting a Multiplayer game on a Private IP (SDN example)
 date: "2021-08-01"
 template: "post"
 draft: false
@@ -9,6 +9,7 @@ tags:
   - "stardew valley"
   - "multiplayer"
   - "hosting"
+  - "sdn"
 description: "The best tool to host anything with a private IP"
 ---
 
@@ -61,3 +62,7 @@ Alternatively, you can also go to the ZeroTier site to check the IP address of t
 Now, your friends can enter your IP address and connect to your Stardew farm.
 
 7. On your friends' devices, enter the host IP address
+
+## How does the Contact do it?
+
+ZeroTier calls it Global Area Networking, but it's actually a virtual network achieved with SDN :)

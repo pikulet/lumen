@@ -6,7 +6,7 @@ template: "page"
 ### Shopee Singapore | Engineer ###
 **May 2021 - Present**
 
-* Creating database products which improves the work efficiency of other software engineers in the organisation
+* Creating database products in the App Infra team.
 
 ### GovTech Singapore | Cybersecurity Engineer ###
 **May 2020 - Jul 2020**
