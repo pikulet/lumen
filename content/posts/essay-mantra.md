@@ -18,9 +18,7 @@ But to me, doing what we love is an idyllic situation. It is where we are able t
 
 I thought about small towns of the past where the whole village would specialise in, master, and take pride in their craft. In those circumstances, their craft (such as iron welding, mining or farming) was likely the only activity they knew of or the only activity they had access to which could offer them a livelihood. This led me to believe that what we love is determined by what we have been doing all along.
 
-Many people in the world have insatiable desires, perpetual dreams to chase for something far and unreachable. However, being a believer in contentment, I see more value in appreciating our
-circumstances and making the most out of them. In situations we cannot control, the optimistic
-response would be to face life with a positive attitude and an open mind.
+Many people in the world have insatiable desires, perpetual dreams to chase for something far and unreachable. However, being a believer in contentment, I see more value in appreciating our circumstances and making the most out of them. In situations we cannot control, the optimistic response would be to face life with a positive attitude and an open mind.
 
 Personally, as a child, I was not exposed to many fields within the study of the humanities, having a limited reading appetite. However, through school lessons and external activities, the world of Geography was revealed to me. Gradually, I understood what gave others the passion in Geography, and developed my own passion for the subject in school. This trend could be extrapolated to other areas, and I found myself in a situation where I craved to learn anything under the sun. 
 
