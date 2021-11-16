@@ -9,4 +9,4 @@ I'm a Computer Science graduate from the National University of Singapore. My pr
 
 > Check out some of my projects [here](/pages/projects/).
 
-A dilettante in recreational mathematics. I enjoy historical fiction and dystopian novels.
+A dilettante in recreational mathematics. I enjoy historical fiction and dystopian novels. I post a mix of tech and non-tech content.
