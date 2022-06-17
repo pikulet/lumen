@@ -6,7 +6,10 @@ template: "page"
 ### Shopee Singapore | Engineer ###
 **May 2021 - Present**
 
-* Creating database products in the App Infra team.
+* Working on software to support high-volume data flows across the globe. 
+* Improved the throughput for cross-continental database replication by 15x.
+* Led the development of migration tools for a system with 200+ **teams** as users, cutting maintenance hours per week by 10x.
+* Primarily using Golang, some scripting in Python.
 
 ### GovTech Singapore | Cybersecurity Engineer ###
 **May 2020 - Jul 2020**

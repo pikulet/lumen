@@ -4,13 +4,13 @@ date: "2021-08-01"
 template: "post"
 draft: false
 slug: "zerotier"
-category: "global-area-network"
+category: "networking"
 tags:
   - "stardew valley"
   - "multiplayer"
   - "hosting"
   - "sdn"
-description: "The best tool to host anything with a private IP"
+description: "Zerotier - using SDN to allow hosting on a private IP"
 ---
 
 > scroll below for a tldr;

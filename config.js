@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://joyceyeo.netlify.app',
   pathPrefix: '/',
   title: 'Joyce Yeo',
-  subtitle: 'Software Engineer @ Shopee',
+  subtitle: 'Software Engineer (Cloud Infra)',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Joyce Yeo',
     photo: '/photo.jpg',
-    bio: 'All up for puzzles and games. Well-versed in python, golang. ',
+    bio: 'All up for puzzles and games. Well-versed in Python, Golang. ',
     contacts: {
       email: 'jycyeo@yahoo.com.sg',
       github: 'pikulet',

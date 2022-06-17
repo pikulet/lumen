@@ -3,7 +3,7 @@ title: Docker Certification
 date: "2021-12-20"
 template: "post"
 draft: false
-slug: "shopee-docker"
+slug: "cert-docker"
 category: "cloud computing"
 tags:
   - "docker"
