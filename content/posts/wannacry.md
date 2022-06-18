@@ -52,5 +52,5 @@ There are [many competing theories](https://www.quora.com/Why-would-WannaCry-hav
 
 ## Remarks
 
-I warmly invite you to dip your hands into taking apart Wannacry, and share anything interesting with me. Our full report is found here [report](/wannacry-report.pdf).
+I warmly invite you to dip your hands into taking apart Wannacry, and share anything interesting with me. Our full report is found [here](/wannacry-report.pdf).
 
