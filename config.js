@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Software Engineer (Cloud Infra)',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [

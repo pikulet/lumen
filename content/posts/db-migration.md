@@ -22,11 +22,11 @@ However, this **offline migration** is problematic in real-time applications tha
 
 More often that not, applications would prefer to carry out **online migration**, where the database has no downtime.
 
-## Types of Database Replication
+## Types of Database Migration
 
-First, I'll give an overview of how database replications are commonly performed. There are two main types of migration, namely scan-based and binlog-based.
+First, I'll give an overview of how database migration are commonly performed. There are two main types of migration, namely scan-based and binlog-based.
 
-- **Scan-based** replication: read from the old database (`SELECT`), and then write to the new database.
+- **Scan-based** migration: read from the old database (`SELECT`), and then write to the new database.
 
 - **Binlog-based** replication: read an event from the binary log (binlog), and then replicate that event to the new database. 
 
@@ -38,7 +38,7 @@ However, applications can have a large number of change events. In that case, it
 
 Now we can delve into the intricacies of online migration.
 
-First, let's have a database with a lot of data, and some data was written a long time ago. Most of the binlogs would have already expired, so scan-based replication is needed. We also let the migration process read the rows in order, from primary key `1`, to `2` and so on, up to a million.
+First, let's have a database with a lot of data, and some data was written a long time ago. Most of the binlogs would have already expired, so scan-based migration is needed. We also let the migration process read the rows in order, from primary key `1`, to `2` and so on, up to a million.
 
 Remember that during this process of scanning and copying the million rows (which might take 3 days), the database is still online. The application continues to write to the database. 
 
@@ -48,7 +48,7 @@ Suppose that the row `id=1` has been scan-copied to the new database. At this ti
 
 ## Data Inconsistency in Online Migration
 
-Next, I'll talk about a data inconsistency that can occur when we mix scan-based and binlog-based replication.
+Next, I'll talk about a data inconsistency that can occur when we mix scan-based migration and binlog-based replication.
 
 #### Write before Scan - data inconsistency
 
