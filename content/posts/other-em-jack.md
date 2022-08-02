@@ -9,7 +9,7 @@ tags:
   - "tampermonkey"
   - "em-jack"
   - "regex"
-description: "Tinkering with a tampermonkey script for Epicmafia (em-jack)."
+description: "Tinkering with a tampermonkey script for Epicmafia (em-jack)"
 ---
 
 In the years of 2015 and 2016, I was very active on an online mafia site, [epicmafia.com]. Here, the sandbox players often load a script known as em-jack, written by @cub and constantly improved over the years.

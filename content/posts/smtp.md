@@ -7,7 +7,7 @@ slug: "smtp-ports"
 category: "computer networks"
 tags:
   - "smtp"
-description: "A quick look at the complicated story of SMTP ports."
+description: "A quick look at the complicated story of SMTP ports"
 ---
 
 The Simple Mail Transfer Protocol (SMTP) is used when users want to send mail to a mail server (which will eventually get delivered to the intended recipient). There are a few ports associated with SMTP, and I'd like to share the history of their evolution :)

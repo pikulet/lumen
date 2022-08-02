@@ -8,7 +8,7 @@ category: "inquiry"
 tags:
   - "bitcoin"
   - "cryptocurrency"
-description: "Working with an economics major to analyse Bitcoin."
+description: "Working with an economics major to analyse Bitcoin"
 ---
 
 Recently, I was tasked to work with a friend majoring in economics to do a joint reflection, so we decided to work on a topic close to both of our experiences: Bitcoin. I am writing the gist of the presentation we shared in class, but credit should definitely go to my partner, Jennifer Yao.

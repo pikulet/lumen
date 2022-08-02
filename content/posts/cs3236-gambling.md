@@ -7,7 +7,7 @@ slug: "gambling-info-theory"
 category: "information theory"
 tags:
   - "information theory"
-description: "Using an information-theoretic perspective to understand horse races."
+description: "Using an information-theoretic perspective to understand horse races"
 ---
 
 ### Information Theory

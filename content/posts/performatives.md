@@ -8,7 +8,7 @@ category: "inquiry"
 tags:
   - "linguistics"
   - "performatives"
-description: "The nature of performative language."
+description: "The nature of performative language"
 ---
 > J. L. Austin writes about performative utterances as sentences which <em>do </em>something, in contrast with constative utterances which <em>describe</em>. Performative utterances are “operative” (pg. 121) and tend to begin with verbs in the first-person singular, present, indicative and active form (pg. 124).</li>
 

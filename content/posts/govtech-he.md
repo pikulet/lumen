@@ -9,7 +9,7 @@ tags:
   - "homomorphic encryption"
   - "cryptography"
   - "internship"
-description: "An internship on Homomorphic Encryption."
+description: "An internship on Homomorphic Encryption"
 ---
 
 This summer, I had the opportunity to join the GovTech Cybersecurity Group. I was paired with my mentor from the GovTech Girls In Tech Programme, and that really helped me tide through the work-from-home internship because at least I knew someone!

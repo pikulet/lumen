@@ -7,7 +7,7 @@ slug: "gcp-coursera"
 category: "cloud computing"
 tags:
   - "google cloud"
-description: "A recommendation for the Coursera course on GCP Fundamentals."
+description: "A recommendation for the Coursera course on GCP Fundamentals"
 ---
 
 NUS has very kindly sponsored students to take up Coursera courses for free. I've been taking many courses during my free time, but one of the most useful/ applicable courses would definitely be on GCP Fundamentals. This course is like that cheatsheet you needed to find out about what features GCP offers. 

@@ -7,7 +7,7 @@ slug: "dns-over-https"
 category: "computer networks"
 tags:
   - "smtp"
-description: "A great idea but doesn't seem to achieve what it set out to do."
+description: "A great idea but doesn't seem to achieve what it set out to do"
 ---
 
 DNS requests are usually made over UDP, in plaintext. In a bid to **introduce more privacy** in DNS traffic, DNS-over-HTTPS (DoH) was published in Oct 2018 ([RFC 8484](https://tools.ietf.org/html/rfc8484)). The DNS traffic will be encrypted, and appear to be like normal HTTPS traffic.

@@ -7,7 +7,7 @@ slug: "triple-semaphore"
 category: "synchronisation"
 tags:
   - "synchronisation"
-description: "Quick fix for priority access to a semaphore."
+description: "Quick fix for priority access to a semaphore"
 ---
 
 While working on a synchronisation problem, I came across a quick fix online that basically used three semaphores. However, I was subsequently unable to find this source again so I thought I'd document it here.

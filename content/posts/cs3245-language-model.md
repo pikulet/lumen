@@ -8,7 +8,7 @@ category: "information retrieval"
 tags:
   - "nltk"
   - "n-grams"
-description: "Tokenising sentences to distinguish sentences of different languages."
+description: "Tokenising sentences to distinguish sentences of different languages"
 ---
 
 This projects aims to build a language model to distinguish sentences in three languages: Bahasa Melayu, Bahasa Indonesia, Tamil.

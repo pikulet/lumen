@@ -7,7 +7,7 @@ slug: "sdn-mininet-pox"
 category: "computer networks"
 tags:
   - "sdn"
-description: "A demonstration of programmable switches."
+description: "A demonstration of programmable switches"
 ---
 
 Software-Defined Networking (SDN) is rather a buzzword in computer networks, but what does it actually mean? At its heart, SDN aims to redefine the Internet to suit modern uses.

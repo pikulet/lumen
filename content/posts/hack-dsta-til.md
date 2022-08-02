@@ -8,7 +8,7 @@ category: "hackathon"
 tags:
   - "pose estimator"
   - "google collab"
-description: "Training an image classfier."
+description: "Training an image classfier for to estimate people's poses"
 ---
 
 Together with some friends, I participated in the 2019 DSTA-TIL-AI camp. This AI camp is held in conjunction with the more well-known Cyber Defenders Discovery Camp (CDDC), a Capture-the-Flag (CTF) competition for computer security enthusiasts.

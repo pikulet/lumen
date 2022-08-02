@@ -8,7 +8,7 @@ category: "computer networks"
 tags:
   - "traceroute"
   - "tcp"
-description: "A hacky way to implement traceroute."
+description: "A hacky way to implement traceroute"
 ---
 
 ### Traceroute?

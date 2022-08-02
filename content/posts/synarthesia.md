@@ -9,7 +9,7 @@ tags:
   - "bootstrap"
   - "heroku"
   - "html css js"
-description: "A 24-hour race to create."
+description: "A 24-hour race to create"
 ---
 
 I joined the recent Hack'n'Roll 2019, the largest student-run hackathon in Singapore. Here, my goal was simple: to make something creative. I was lucky to have two amazing teammates, one of which being my sister.

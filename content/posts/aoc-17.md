@@ -7,7 +7,7 @@ slug: "aoc-17"
 category: "programming problems"
 tags:
   - "advent of code"
-description: "Reflections on the Advent of Code 2017 season."
+description: "Reflections on the Advent of Code 2017 season"
 ---
 
 At the dawn of this year's winter, I had just made the switch from Mathematics to Computer Science. By now, I was fairly confident of my intuition of basic programming concepts.

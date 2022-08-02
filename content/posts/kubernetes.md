@@ -8,7 +8,7 @@ category: "cloud computing"
 tags:
   - "kubernetes"
   - "docker"
-description: "A self-note to record my learning more than anything"
+description: "A self-note to record my learning on container orchestration"
 ---
 
 Three months ago, I embarked on another e-learning course about Docker. 

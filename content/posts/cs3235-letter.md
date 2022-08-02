@@ -7,7 +7,7 @@ slug: "cs3235-letter"
 category: "achievement"
 tags:
   - "computer security"
-description: "CS3235 Computer Security."
+description: "CS3235 Computer Security"
 ---
 
 In the field of computer security, it is common to encounter geniuses who have been working on Capture-The-Flags for many years. It can be quite frightening to study alongside them, but I always take the opportunity to learn from them instead.

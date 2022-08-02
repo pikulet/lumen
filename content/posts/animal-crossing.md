@@ -8,7 +8,7 @@ category: "game modding"
 tags:
   - "modding"
   - "nintendo switch"
-description: "Game modding during the Animal Crossing hype."
+description: "Game modding during the Animal Crossing hype"
 ---
 
 The pandemic has really gotten everyone cooped up at home, and Nintendo was really lucky to have just released a game like Animal Crossing: New Horizons. At the height of the craze, I learnt how to modify the game code and generate items in the game. 

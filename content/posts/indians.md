@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "indians-essay"
 category: "inquiry"
-description: "A reflection of a module on Indians."
+description: "A reflection of a module on the history of Indian migration in Singapore"
 ---
 
 Last semester, I took UCV2209 The Heterogenous Indians of Contemporary Singapore. Being non-Indian and coming from a Special Assistance Plan (SAP) school with a strong Chinese culture, I was new to this. 

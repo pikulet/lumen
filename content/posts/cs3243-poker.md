@@ -8,7 +8,7 @@ category: "artificial intelligence"
 tags:
   - "counter-factual regret learning"
   - "deep-q learning"
-description: "Creating a poker agent based on Counter-Factual Regret Minimisation and Deep-Q Learning."
+description: "Creating a poker agent based on Counter-Factual Regret Minimisation and Deep-Q Learning"
 ---
 
 In a module on Artificial Intelligence, we were tasked with building a poker agent playing a simplified form of limit poker. The poker engine is found [here](https://github.com/ishikota/PyPokerEngine).

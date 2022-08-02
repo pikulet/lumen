@@ -9,7 +9,7 @@ tags:
   - "linguistics"
   - "ambivalence"
   - "conceptual metaphors"
-description: "The nature of literary languge - what makes a sentence ambiguous or valid?."
+description: "The nature of literary languge - what makes a sentence ambiguous or valid?"
 ---
 Literary language is ambiguous and _contextualised_.
 

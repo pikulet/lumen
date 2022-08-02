@@ -7,7 +7,7 @@ slug: "aoc-20"
 category: "programming problems"
 tags:
   - "advent of code"
-description: "A (very informal) reflection on the Advent of Code 2020 season."
+description: "A (very informal) reflection on the Advent of Code 2020 season"
 ---
 
 This year, I wanted to do something different and try out AOC on a new programming language. What better language to turn to than Golang! Things turned out pretty well at first but then I found myself not exploiting Golang's best features (the famous concurrency boosts, slices... what else are there I've yet to discover?) in making my solutions efficient. 

@@ -7,7 +7,7 @@ slug: "google-data-center-workshop"
 category: "workshop"
 tags:
   - "data center"
-description: "The hardware keeping the internet running."
+description: "The hardware keeping the internet running"
 ---
 
 This winter break, I got the chance to attend the 2nd Google Data Center Workshop. This workshop covered everything from assembling hardware components to performance analysis of the data center. It has given me newfound appreciation for the role of Data Centers and how they are the hidden backbone of Google's products.
