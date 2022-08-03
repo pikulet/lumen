@@ -6,7 +6,7 @@ template: "page"
 ### Shopee Singapore | Engineer ###
 **May 2021 - Present**
 
-* Working on software to support high-volume data flows across the globe. 
+* Developing ETL products for high-volume and multiplexed data flows between databases and MQ systems.
 * Improved the throughput for cross-continental database replication by 15x.
 * Led the development of migration tools for a system with 200+ **teams** as users, cutting maintenance hours per week by 10x.
 * Primarily using Golang, some scripting in Python.
