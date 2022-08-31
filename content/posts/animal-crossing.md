@@ -27,4 +27,6 @@ Not going to lie though, cyber defense is very expensive. Are these costs really
 
 Outside of security, these questions are important in every domain of life. When it comes to personal health, many people generally agree that it is worth spending a little more money to keep our bodies healthy. And it isn't just about defraying the costs of seeing a doctor. It's about well-being and a peace of mind.
 
+## Remarks
 
+Besides getting myself involved in hacking the game, I also ran a satirical Animal Crossing news site. You may check out the [5amcrook](https://5amcrook.netlify.app/).
