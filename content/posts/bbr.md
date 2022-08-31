@@ -17,9 +17,7 @@ Most of the older congestion control algorithms are loss-based, where they reduc
 
 [BBR](https://github.com/google/bbr) (Bottleneck Bandwidth and Round-trip propagation time) instead forms a **model** of the internet, by predicting the **optimal network traffic**. It uses two metrics, the maximum bandwidth and minimum RTT, to model a network link. With its knowledge of the network conditions, the algorithm then sends packets based on this optimal network traffic value.
 
-In doing so, the BBR algorithm can send packets at a more stable rate. It is in effect achieving congestion control via congestion *avoidance*.
-
-Congestion control algorithms have evolved as network patterns in the internet have changed. There could be many more exciting algorithms in the future.
+This model allows the algorithm to send packets at a more stable rate, hence achieving congestion control via congestion *avoidance*.
 
 
 

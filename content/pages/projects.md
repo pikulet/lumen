@@ -5,6 +5,13 @@ template: "page"
 
 Check out more on [GitHub](https://github.com/pikulet)!
 
+### Synacore ###
+**Virtual machine for assembly code** ([Repository](https://github.com/pikulet/synacore))
+
+![synacore](/media/synacore.png)
+
+Implemented an object-oriented VM that can read assembly code. Includes memory, registers, stack, function calls, jumps and an ALU. This project is for the [Synacor Challenge](https://challenge.synacor.com/)
+
 ### Pomenohenn ### 
 **Retro word game in Python, Pyxel** ([Repository](https://github.com/pikulet/phenn-pyxel))
 
