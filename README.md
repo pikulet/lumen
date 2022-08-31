@@ -10,10 +10,10 @@ I love lumen for its super simplistic design, and how it enables me to pen my th
 
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash`
 
-2. Set `nvm` to use node10
+2. Set `nvm` to use node14
 
-`nvm install 10
-nvm use 10`
+`nvm install 14
+nvm use 14`
 
 3. Install gatsby
 
