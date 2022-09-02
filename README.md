@@ -2,7 +2,7 @@
 
 :exclamation: This is a fork of [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) :exclamation:
 
-I love lumen for its super simplistic design, and how it enables me to pen my thoughts down.
+This design is simplistic and enables me to pen some thoughts down.
 
 # :dolphin: Getting Started
 
