@@ -5,6 +5,13 @@ template: "page"
 
 Check out more on [GitHub](https://github.com/pikulet)!
 
+### Roolet ###
+**reactJs discrete event visualiser** ([Demo](https://roolets.netlify.app)|[Blog Post](/posts/roolet)|[Repository](https://github.com/pikulet/roolet))
+
+![roolet](/media/roolet.png)
+
+Full Stack ReactJs site that visualises betting outcomes (pmf, cmf) in xkcd-like graphics. Inspired by Roulette.
+
 ### Synacore ###
 **Virtual machine for assembly code** ([Repository](https://github.com/pikulet/synacore))
 
