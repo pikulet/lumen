@@ -10,7 +10,7 @@ Check out more on [GitHub](https://github.com/pikulet)!
 
 ![roolet](/media/roolet.png)
 
-Full Stack ReactJs site that visualises betting outcomes (pmf, cmf) in xkcd-like graphics. Inspired by Roulette.
+Full-stack ReactJs site that visualises betting outcomes (pmf, cmf) in xkcd-like graphics. Inspired by Roulette.
 
 ### Synacore ###
 **Virtual machine for assembly code** ([Repository](https://github.com/pikulet/synacore))
