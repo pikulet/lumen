@@ -32,7 +32,6 @@ Rather unfortunately, when I re-did the questions in Golang, I was doing nothing
 
 Midway through AOC, I had to leave my computer at home. I wasn't home for a whole week and ended up missing quite a bit. Alas, the hole of missed days gapes at me, too wide to be missed. I didn't want to stop at Day 13 and continue on Day 21 without having done anything in between, and I can't deny how laziness also set in. Next year, I tell myself again, next year.
 
-
 ### Remarks ###
 
-The remnants of my work can be found on [Github](https://github.com/pikulet/adventofcode2020). There's nothing particularly valuable for anyone other than myself to read this code, but do let me know what I can do to make my code *better*.
+The remnants of my work can be found on [Github](https://github.com/pikulet/adventofcode2020).

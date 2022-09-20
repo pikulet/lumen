@@ -8,9 +8,7 @@ category: "fullstack"
 description: "A Full-stack ReactJS project"
 ---
 
-Over the weekend, I was shown a video about a Roulette betting strategy that *claimed* to guarantee wins. In effect, the video was spreading the bets to lower the risk of each bet. The winnings are reduced, but the losses are also dampened. However, gamblers want to know the numbers. A verbal explanation often does not suffice, so I wanted to make a visualisation of the probility mass function (pmf) and cumulative mass function (cmf) to illustrate my point.
-
-I was browsing my starred projects on Github and came across [chart.xkcd](https://github.com/timqian/chart.xkcd). A beloved comical font integrated into a charting library? I had to give it a go. And that's how I ended up working on this project over the past three (or four) days.
+Over the weekend, I was shown a video about a Roulette betting strategy that *claimed* to guarantee wins. In effect, the video was spreading the bets to lower the risk of each bet. The winnings are reduced, but the losses are also dampened. However, gamblers want to know the numbers. A verbal explanation often does not suffice, so I wanted to make a visualisation of the probility mass function (pmf) and cumulative mass function (cmf) to illustrate my point. I ended up working on this project over the past three days.
 
 ![roolet](/media/roolet.png)
 

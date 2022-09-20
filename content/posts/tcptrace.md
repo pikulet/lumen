@@ -40,17 +40,15 @@ However, one must also account for the probing packets that never return. This t
 
 Lastly, I put everything together by running `connect()`. Once the function returns or a timeout is triggered, I can check the `errno` being set. Some examples of the `errno` values that could occur:
 
-- EHOSTUNREACH: an ICMP error has been received. Probably an intermediate host, but could be the final destination.
-- ETIMEDOUT: a timeout has occurred
-- EINPROGRESS, EALREADY: a timeout has occurred, could be consecutive timeouts
-- ECONNRESET: The TCP RST packet; the final destination has been reached
-- ECONNREFUSED: The final destination has been reached
+- `EHOSTUNREACH`: an ICMP error has been received. Probably an intermediate host, but could be the final destination`.
+- `ETIMEDOUT`: a timeout has occurred
+- `EINPROGRESS`, EALREADY: a timeout has occurred, could be consecutive timeouts
+- `ECONNRESET`: The TCP RST packet; the final destination has been reached
+- `ECONNREFUSED`: The final destination has been reached
 
 #### Remarks
 
-This project has been a great way to understand about socket programming. It's very fulfilling to have built a traceroute in TCP, albeit simplified.
-
-Socket programming is fundamental in writing network applications, and I hope to work with it more in future(:
+This project has been a great way to understand about socket programming. It's very fulfilling to have built a traceroute in TCP, albeit simplified. Socket programming is fundamental in writing network applications, and I hope to work with it more in future.
 
 The traceroute program can be found [here](https://github.com/pikulet/tcptrace).
 
