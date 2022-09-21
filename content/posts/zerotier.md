@@ -4,7 +4,7 @@ date: "2021-08-01"
 template: "post"
 draft: false
 slug: "zerotier"
-category: "networking"
+category: "computer networks"
 tags:
   - "stardew valley"
   - "multiplayer"

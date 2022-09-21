@@ -4,7 +4,7 @@ date: "2020-09-20"
 template: "post"
 draft: false
 slug: "gcp-coursera"
-category: "cloud computing"
+category: "cloud infrastructure"
 tags:
   - "google cloud"
 description: "A recommendation for the Coursera course on GCP Fundamentals"

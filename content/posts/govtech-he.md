@@ -4,7 +4,7 @@ date: "2020-08-05"
 template: "post"
 draft: false
 slug: "govtech-homomorphic-encryption"
-category: "homomorphic-encryption"
+category: "cybersecurity"
 tags:
   - "homomorphic encryption"
   - "cryptography"

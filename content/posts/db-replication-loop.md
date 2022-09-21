@@ -4,7 +4,7 @@ date: "2022-02-10"
 template: "post"
 draft: false
 slug: "cyclical-replication"
-category: "infrastructure"
+category: "cloud infrastructure"
 tags:
   - "database migration"
 description: "Multi-master database replication"

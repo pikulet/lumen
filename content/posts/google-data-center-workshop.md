@@ -4,7 +4,7 @@ date: "2019-12-20"
 template: "post"
 draft: false
 slug: "google-data-center-workshop"
-category: "workshop"
+category: "events"
 tags:
   - "data center"
 description: "The hardware keeping the internet running"

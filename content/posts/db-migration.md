@@ -4,7 +4,7 @@ date: "2021-10-18"
 template: "post"
 draft: false
 slug: "database-migration"
-category: "infrastructure"
+category: "cloud infrastructure"
 tags:
   - "database migration"
 description: "Beyond the click of a button"

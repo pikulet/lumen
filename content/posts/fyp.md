@@ -4,7 +4,7 @@ date: "2021-05-30"
 template: "post"
 draft: false
 slug: "tee"
-category: "trusted computing"
+category: "cybersecurity"
 tags:
   - "intel sgx"
   - "trusted computing"

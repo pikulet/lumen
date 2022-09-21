@@ -4,7 +4,7 @@ date: "2022-03-30"
 template: "post"
 draft: false
 slug: "kubernetes"
-category: "cloud computing"
+category: "cloud infrastructure"
 tags:
   - "kubernetes"
   - "docker"

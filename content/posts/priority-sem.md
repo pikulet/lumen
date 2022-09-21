@@ -4,7 +4,7 @@ date: "2019-12-30"
 template: "post"
 draft: false
 slug: "triple-semaphore"
-category: "synchronisation"
+category: "parallel computing"
 tags:
   - "synchronisation"
 description: "Quick fix for priority access to a semaphore"
@@ -23,7 +23,7 @@ Suppose we have a semaphore N, and two processes A and B. Each of A and B would 
 
 When either process A or B calls `wait` on the semaphore, the other process is **blocked** at the `wait` until the process in the critical section releases the semaphore using `signal`. Now, there are numerous classical problems already detailing the problems that arise from using synchronisation involving waiting, such as deadlocks and livelocks. This will not be the focus of this blog post.
 
-### Priority in Semaphores ###
+### Priority in Semaphores
 
 Suppose I have 10 processes running the same program as A, and another 10 processes running the same program as B. When all these 20 processes run, the semaphore grants access to any process that is blocked at `wait` - that is, there is no queue or priority being set.
 
@@ -33,7 +33,7 @@ Example:
 
 How can we give processes of type B to be given priority access to the semaphore?
 
-## Solution ##
+## Solution
 
 This is a 3-semaphore solution.
 - Semaphore N, the original semaphore as above

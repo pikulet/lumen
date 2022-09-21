@@ -36,7 +36,7 @@ Because there was a wide variety of commands you could call on the slave, people
 
 I definitely enjoyed tinkering with em-jack, but the entire script architecture definitely needs restructuring and some cleanup :)
 
-#### Remarks ####
+#### Remarks
 
 The script can be found [here](https://gist.github.com/pikulet/be1c00aedb78c984ab62e395ecbcbbbb).
 

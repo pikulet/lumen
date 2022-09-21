@@ -22,7 +22,7 @@ However, having a lack of advanced data structures and algorithms knowledge, I g
 
 It is a pity, but we will be back next year!
 
-#### Remarks ####
+#### Remarks
 
 Look out for the update every December at [adventofcode.com](https://adventofcode.com).
 

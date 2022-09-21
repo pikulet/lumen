@@ -4,7 +4,7 @@ date: "2019-02-01"
 template: "post"
 draft: false
 slug: "synarthesia"
-category: "hackathon"
+category: "fullstack"
 tags:
   - "bootstrap"
   - "heroku"
@@ -22,7 +22,7 @@ The algorithm was a simple 1-to-1 mapping from (note, time) to (artwork), but it
 
 We ended up hosting the application on heroku, but it was incredibly slow. I think one improvement would have been to source for an alternative hosting method.
 
-#### Remarks ####
+#### Remarks
 Do check out the [project repo](https://github.com/pikulet/HacknRoll-SynARThesia) or [devpost](https://devpost.com/software/synarthesia).
 
 \[warning!\] The [site](https://synarthesia.herokuapp.com/synarthesia.html) that takes really long to load.

@@ -4,7 +4,7 @@ date: "2016-12-31"
 template: "post"
 draft: false
 slug: "high-school"
-category: "about"
+category: "achivement"
 tags:
   - "academics"
 description: "List of Achievements from High School"

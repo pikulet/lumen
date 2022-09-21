@@ -4,7 +4,7 @@ date: "2021-9-12"
 template: "post"
 draft: false
 slug: "stuck-sliding-window"
-category: "programming problems"
+category: "algorithm"
 tags:
   - "advent of code"
 description: "Resolving the problem of static sliding windows"

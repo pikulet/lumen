@@ -20,7 +20,7 @@ Firstly, writing more reusable components. I aggresively used React Components a
 
 Secondly, a better organisation of files. I winged it this time and as I got to the end, I found the file organisation messy - especially wrt how I organised the stylesheets. I might try **React Styled Components** the next time around.
 
-### Remarks ###
+### Remarks
 
 Check out the [demo](https://roolets.netlify.app) or fork the project on [Github](https://github.com/pikulet/roolet).
 

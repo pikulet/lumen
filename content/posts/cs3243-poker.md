@@ -17,7 +17,7 @@ Basically, the agent has a function to decide which action to take (raise, call 
 
 Given the large complexity of poker, we had to apply abstractions to make it feasible to develop a poker agent. I'll be sharing some of our insights into the game, and the techniques used.
 
-#### Abstracting Game States ####
+#### Abstracting Game States
 
 **Card Isomorphism**: In poker, the suits of the card do not matter. Hence, a hand size of two can be stored in a table of size 13 x 13 = 169 instead of 50 choose 2 = 1326.
 
@@ -35,7 +35,7 @@ Generating good card buckets is a topic of research that takes a lot of time to 
 
 We randomly generated 1000 possible hands. For each hand, we ran them through a Monte Carlo simulation to retrieve a win rate value. We then calculate the win rate at the 20th, 40th, 60th and 80th percentiles. These were the values used to demarcate two buckets.
 
-#### Abstracting Player Behaviour ####
+#### Abstracting Player Behaviour
 
 **Aggressiveness**: Given a strong hand, how much do you want to raise, or just call?
 
@@ -47,13 +47,13 @@ We randomly generated 1000 possible hands. For each hand, we ran them through a 
 
 In the end, we simply aggregated these two factors using the play sequence.
 
-#### Importance of Random Behaviour ####
+#### Importance of Random Behaviour
 
 A predictable player would be easily countered. Instead of fixing actions to take, our agent has a 3-tuple of probability that each action (raise, call, fold) would be played.
 
 For instance, (0.8, 0.1, 0.1) means that the agent raises with probability 80%, calls with probability 10% and folds with probability 10%.
 
-#### Aggregating the Data into an Agent ####
+#### Aggregating the Data into an Agent
 
 The simplest agent would just put all these values into a linear combination and optimise the weights. We were adventurous and decided to try out two of the latest techniques - Counter-Factual Regret Minimisation (CFR Method) and Deep-Q Network Learning (DQN).
 
@@ -64,11 +64,11 @@ However, CFR agents take very long to train. There are multiple game states and 
 
 We then turned to the Deep-Q Network. The paradigm of DQNs parallel CFR agents: each action has a value mapped to it. The results take a much faster time to approach equilibrium, which was favourable given our lack of training resources.
 
-#### Conclusion ####
+#### Conclusion
 
 Developing a complex poker agent was definitely fun, and let me understand more about artificial intelligence. What does it really mean for a machine to be able to make decisions? What are the implications on human society?
 
-#### Remarks ####
+#### Remarks
 
 A lot of our work was based on the exceptional work at the [University of Alberta Computer Poker Research Group](https://poker.cs.ualberta.ca/). Do check out their work!
 

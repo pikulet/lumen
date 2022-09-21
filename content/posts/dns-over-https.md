@@ -31,7 +31,7 @@ Companies are marketing DoH as a way to prevent ISPs from tracking users' web tr
 - There are other proposals like DNSSEC ([RFC 4033](https://tools.ietf.org/html/rfc4033)) and DNS-over-TLS (DoT, [RFC 7858](https://tools.ietf.org/html/rfc7858)), [DNSCrypt](https://en.wikipedia.org/wiki/DNSCrypt), but these also have their own security concerns.
 - Privacy in our DNS traffic is important, and this is currently still a work in progress in security research!
 
-### Readings: ####
+### Readings
 [A quick read](https://www.zdnet.com/article/dns-over-https-causes-more-problems-than-it-solves-experts-say/)
 [An elaborate discussion on privacy; also contains information on metadata leaks like SNI](https://blog.apnic.net/2019/10/03/opinion-centralized-doh-is-bad-for-privacy-in-2019-and-beyond/)
 

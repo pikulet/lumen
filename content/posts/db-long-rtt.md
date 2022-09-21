@@ -4,7 +4,7 @@ date: "2022-04-14"
 template: "post"
 draft: false
 slug: "long-distance-migration"
-category: "infrastructure"
+category: "cloud infrastructure"
 tags:
   - "database migration"
 description: "Improving the throughput of long RTT networks"

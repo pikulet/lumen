@@ -4,7 +4,7 @@ date: "2019-06-26"
 template: "post"
 draft: false
 slug: "dsta-til-hack"
-category: "hackathon"
+category: "events"
 tags:
   - "pose estimator"
   - "google collab"

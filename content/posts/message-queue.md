@@ -4,7 +4,7 @@ date: "2021-09-23"
 template: "post"
 draft: false
 slug: "dead-letter-queue"
-category: "message queue"
+category: "cloud computing"
 tags:
  - "kafka"
 description: "An introduction to Message Queues (MQ)"

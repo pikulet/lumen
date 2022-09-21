@@ -5,8 +5,10 @@ template: "post"
 draft: false
 slug: "essay-archive"
 category: "inquiry"
-description: "A collection of college admission essay"
+description: "A collection of college admission essays"
 ---
+
+A selection of my college admission essays (verbatim!). A portal into who I was, and how I have changed.
 
 ## Personal Values (cc. 2016)
 
