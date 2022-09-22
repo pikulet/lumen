@@ -8,7 +8,7 @@ category: "recreational mathematics"
 tags:
   - "probability"
   - "game theory"
-description: ""
+description: "An introductory game theory book"
 ---
 
 I recently picked up a very interesting book at the library:
