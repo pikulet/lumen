@@ -42,7 +42,6 @@ Created a Finite State Machine Game Engine that can be used by various applicati
 ![dynalite](/media/dynalite.png)
 Created a light-detection system to retrieve data on room occupancy rates. Finds available study spaces in school. I worked on the RaspberryPi module, using CoAP (Constrained Application Protocol). CoAP is a lightweight http-like protocol for use in IoT devices with limited bandwidth (this will soon be resovled with 5G).
 
-
 ### tcptrace
 **Traceroute in TCP using C** ([Blog Post](/posts/tcp-traceroute)|[Repository](https://github.com/pikulet/tcptrace))
 
@@ -82,9 +81,3 @@ This project was morphed from a 10kLoC address book application in Java. The sys
 
 ![halp](/media/halp.png)
 Created an android prototype that allows NUS students to take a queue number without being physically present at the clinic. The project is now outdated as we integrated to the NUS system using the old IVLE LAPI. NUS has since migrated to LumiNUS.
-
-### SynARThesia
-**Hack 'n' Roll 2019** ([Blog Post](/posts/synarthesia)|[Demo](https://synarthesia.herokuapp.com/synarthesia.html)|[Repository](https://github.com/pikulet/HacknRoll-SynARThesia))
-
-![synarthesia](/media/synarthesia.jpg)
-Created a web application that demonstrates the synesthetic experience - creating artwork using music. The site was hosted on heroku, and here I learnt about the importance of web optimisations. Our artwork generator was slow due to the rendering of images using the HTML canvas.

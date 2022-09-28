@@ -11,11 +11,11 @@ tags:
 description: "An introductory game theory book"
 ---
 
-I recently picked up a very interesting book at the library:
+I recently picked up a book at the library:
 
 > Gladiators, Pirates and Games of Trust by Haim Shapira
 
-The book covers some interesting concepts and problems in game theory, and how these play out in real-life negotations. It does not go into a lot of detailed explanation, but it's a great starter for the topic. A host of problems are covered in this book - The Prisoner's Dilemma, Stable Marriage Problem and Gale-Shapley algorithm, the irrelevance of order in the Gladiator game, and Evolutionary Stable Strategies.
+The book covers some interesting concepts and problems in game theory, and how these scenarios play out in real-life negotations. It does not go into a lot of detailed explanation, but it's a great starter for the topic. A host of problems are covered in this book - The Prisoner's Dilemma, Stable Marriage Problem and Gale-Shapley algorithm, the irrelevance of order in the Gladiator game, and Evolutionary Stable Strategies.
 
 I've written down a brief of the problems that intrigued me below.
 
@@ -33,7 +33,7 @@ Rational players should agree to split halfway. This is the Nash Equilibrium. Ho
 
 ### Ultimatum Game
 
-A variant of this game is the Ultimatum game, where one players ***proposes*** the split and the other player merely ***responds***. Unlike the blackmailer scenario, there's only a limited number of proposals that can be made. An interesting effect is that responders who know the total amount being split might play irrationally. The responder will gladly accept `$100`, but upon knowing the total was `$10000`, he might feel indignant and reject the offer. 
+A variant of the blackmailer game is the Ultimatum game, where one players ***proposes*** the split and the other player merely ***responds***. Unlike the blackmailer scenario, there's only a limited number of proposals that can be made. An interesting effect is that responders who know the total amount being split might play irrationally. The responder will gladly accept `$100`, but upon knowing the total was `$10000`, he might feel indignant and reject the offer. 
 
 ## Chomp
 
