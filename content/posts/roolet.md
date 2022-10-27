@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "roolet"
 category: "fullstack"
-description: "A Full-stack ReactJS project"
+description: "Fun with xkcd graphics in a fullstack project"
 ---
 
 Over the weekend, I was shown a video about a Roulette betting strategy that *claimed* to guarantee wins. In effect, the video was spreading the bets to lower the risk of each bet. The winnings are reduced, but the losses are also dampened. However, gamblers want to know the numbers. A verbal explanation often does not suffice, so I wanted to make a visualisation of the probility mass function (pmf) and cumulative mass function (cmf) to illustrate my point. I ended up working on this project over the past three days.
