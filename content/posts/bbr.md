@@ -8,7 +8,7 @@ category: "computer networks"
 tags:
   - "tcp"
   - "bbr"
-description: "Modern congestion control algorithms"
+description: "A modern congestion control algorithm"
 ---
 
 TCP is an known transport-layer protocol, but it comes in many variants or flavours of congestion control algorithms. Examples include TCP Tahoe, TCP Reno and TCP New Reno. In modern times (last 20 years), the two more recognised ones are CUBIC and BBR.
