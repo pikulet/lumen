@@ -24,10 +24,9 @@ One way to reduce the number of in-flight messages is to package multiple messag
 
 Batch processing is a generic optimisation that simply concatenates multiple messages together. It can be applied in a multitude of long RTT communication scenarios.
 
-
 ### Optimisation: Concurrency
 
-Messages can be sent **concurrently**, so one message need not wait for its predecessor to first return. The correctness of concurrency is application-specific. For database migrations, different tables would be independent of each other. Furthermore, different primary keys are also independent of each other. This means that we only need to ensure the in-order correctness of messages with the same table and same primary key.
+Messages can be sent **concurrently**, so one message need not wait for its predecessor to first return. The correctness of concurrency is application-specific. For database migrations, different tables would be independent of each other. Furthermore, different primary keys are also independent of each other. This means that we only need to ensure the in-order correctness of messages with the same table and same primary key. Data sharding is key in increasing concurrency.
 
 ### Optimisation: Message Compression
 

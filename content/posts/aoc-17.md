@@ -18,9 +18,9 @@ For instance, if you play with 3 friends, then on your private leaderboard the f
 
 The puzzles started out simple, where I got used to opening and reading files in python.
 
-However, having a lack of advanced data structures and algorithms knowledge, I got stuck at a third of the way. For the next 2 to 3 days, I ended up looking at how my friends had solved them. Eventually, my friends got busy and no one actually persisted through 25 days. 
+However, having a lack of advanced data structures and algorithms knowledge, I got stuck at a third of the way. For the next 2 to 3 days, I ended up looking at how my friends had solved them. I took the opportunity to learn from them, a reminder that it's important to surround ourselves with people help us grow. 
 
-It is a pity, but we will be back next year!
+Eventually, my friends got busy and no one actually persisted through 25 days. Hopefully, we will have another go next year!
 
 #### Remarks
 

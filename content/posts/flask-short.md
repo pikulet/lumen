@@ -11,7 +11,7 @@ tags:
 description: "From start to finish in two days"
 ---
 
-Recently, I applied to (X) for a full-time role and the interviewers requested I made a web app. The condition? I was only informed of this assessment on a Friday, and I had to submit it by Sunday. That's really not a lot of time, and involved pushing back other plans I had already made for the weekends.
+Recently, I applied for a full-time role and the interviewers requested I made a web app. The condition? I was only informed of this assessment on a Friday, and I had to submit it by Sunday. That's really not a lot of time, and involved pushing back other plans I had already made for the weekends.
 
 Anyhow, I was already familiar with full-stack web applications using the PERN stack (mainly JavaScript). Furthermore, the requirements did mention that I would have to make changes to the code base on the spot. As such, I wanted to play to my strength (aka Python) and take the opportunity to delve into a python framework for building web apps. 
 
