@@ -26,14 +26,6 @@ Regardless, I can't let go of the allure of there being a universal way of thoug
 
 However, there are underlying skills that transcend all programming languages and these are the ones that matter when Python becomes old (Python's already twenty, older than some freshmen). Even though language-independent skills are paramount, there's still a need to delve deep into the mechanisms of how some programming languages work. This way, we're able to pick up on underlying patterns of thought and perhaps pave the way for a language that would be more useful in the future.
 
-### What actually happened in AOC2020 ###
-
-I got tempted by the leaderboard. In order to complete puzzles in the quickest possible time among all my friends, I had to use Python :P For the first few days, I first solved the problems in Python. Mentally, I already had a map of the solution the way I had it implemented in Python. 
-
-Rather unfortunately, when I re-did the questions in Golang, I was doing nothing more than syntax matching and recovery. However, I'm still glad to have picked up on Golang basics. More importantly, I started connecting with the Golang community and I definitely hope to learn more from the many experts around.
-
-Midway through AOC, I had to leave home for a whole week and ended up missing quite a bit. I got quite discouraged by the gaping hole of the missed days (Day 13 to Day 21), and stopped there.
-
 #### Remarks
 
-The remnants of my work can be found on [Github](https://github.com/pikulet/adventofcode2020).
+My (incomplete) work can be found on [Github](https://github.com/pikulet/adventofcode2020).
