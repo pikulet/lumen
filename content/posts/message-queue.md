@@ -18,11 +18,9 @@ This architecture is essentially a [message queue](https://en.wikipedia.org/wiki
 
 Kafka is a great place to start running your own MQ service locally and diving into multiple aspects like **redundancy replication**, **partial ordering** to increase concurrency and more. Undeliverable messages might also be added to a **dead-letter queue** (DLQ).
 
-There are lots of interesting concepts relating to message queue systems and how they have made information transfer so scalable. If you're dipping your hands into kafka, `kcat` is a good tool to interact with kafka cluster.
+There are lots of interesting concepts relating to message queue systems and how they have made information transfer so scalable. If you're dipping your hands into kafka, `kcat` is a good command-line tool to interact with a kafka cluster.
 
 I've been heavily exposed to message queues in my current job, and many concepts were so foreign. I recently took a kafka class, which helped structure my understanding of this topic better and allowed me to see the bigger picture. Anyone working with scalable and distributed systems will definitely find this topic very handy.
-
-![Kafka certificate](/media/kafka-cert.png)
 
 I took some notes, which might be useful for future reference.
 

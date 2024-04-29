@@ -11,11 +11,7 @@ tags:
 description: "A self-note to record my learning on container orchestration"
 ---
 
-Three months ago, I embarked on another e-learning course about Docker. 
-
-![Docker certificate](/media/docker-cert.png)
-
-Though I was using docker regularly at work, my understanding was haphazard and I was, in short, not using it like a pro. However, docker is merely the first step in the containerisation industry, and users of docker will know that operating docker manually is cumbersome and not scalable.
+Docker is merely the first step in the containerisation industry, and users of docker will know that operating docker manually is cumbersome and not scalable.
 
 Furthermore, systems often require multiple tasks to be deployed. For instance, I might want to run MyTask with config-A, config-B and config-C. Running all these tasks merely using docker would result in me having to manually create and check that they are running. This is where kubernetes comes in. It's a container orchestration tool that allows teams to easily deploy many tasks, and check that they're running well. I'll list some important concepts in kubernetes.
 

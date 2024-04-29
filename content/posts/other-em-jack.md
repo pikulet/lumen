@@ -1,5 +1,5 @@
 ---
-title: A First Touch at Customising Scripts
+title: emjack tampermonkey
 date: "2017-01-05"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "tampermonkey"
   - "em-jack"
   - "regex"
-description: "Tinkering with a tampermonkey script for Epicmafia (em-jack)"
+description: "Tampermonkey script for Epicmafia (em-jack)"
 ---
 
 In the years of 2015 and 2016, I was very active on an online mafia site, [epicmafia.com]. Here, the sandbox players often load a script known as em-jack, written by @cub and constantly improved over the years.
@@ -34,7 +34,7 @@ Players often had to entirely disable the slave mode because the masters were be
 
 Because there was a wide variety of commands you could call on the slave, people would try out many commands, often met with a surprise at the deadpan response.
 
-I definitely enjoyed tinkering with em-jack, but the entire script architecture definitely needs restructuring and some cleanup :)
+I definitely enjoyed tinkering with em-jack, but the entire script architecture definitely needs restructuring and some cleanup.
 
 #### Remarks
 

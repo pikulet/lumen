@@ -96,11 +96,11 @@ Once the noise exceeds a threshold value, it becomes impossible to correctly dec
 
 After experimenting and doing performance analysis on this scheme, here were some findings:
 
-1. **Space Consumption**
+**Space Consumption**
 
 There was an impractically large increase in the space consumed by the encrypted data. Unencrypted integers took just `4` bytes of space, but that single digit encryption would take `100k` bytes. While I did not verify if the growth is linear for large numbers, it is still concerning for large data sets of single-digit data.
 
-2. **Limited Practical Use**
+**Limited Practical Use**
 
 - BFV only allows for mathematically primitive operations like addition and multiplication to be done. It is expensive to piece together these operations to achieve complex functionality for use in data analytics and machine learning.
 - The data owner has to do the encryption and decryption of the sensitive input by themselves. This operation is expensive and would consume the owner's own resources. It's a trade-off between spending resources on encryption versus spending on computation and analytics.

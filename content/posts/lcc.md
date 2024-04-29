@@ -17,19 +17,19 @@ Interestingly, the class wasn't about making generic assumptions, but about expl
 ## Codeswitching
 
 Generally, there are a few categories to divide code switching into:
-- Inter- vs intra- sentential. Intra-sentential (within-a-sentence) codeswitching involves changing just a phrase or word, and is close to what we know as "borrowing" words.
-- Metaphorical: There is additional meaning in using the embedded language over the matrix language. The switch is more concerned with what is being said rather than who is listening, and is more commonly performed in bilingual communities.
-- Situational code switching: The code is switched depending on who the listener/ the situation. For instance, I would use Chinese in a Chinese class.
+- **Inter- vs intra- sentential**. Intra-sentential (within-a-sentence) codeswitching involves changing just a phrase or word, and is close to what we know as "borrowing" words.
+- **Metaphorical**: There is additional meaning in using the embedded language over the matrix language. The switch is more concerned with what is being said rather than who is listening, and is more commonly performed in bilingual communities.
+- **Situational** code switching: The code is switched depending on who the listener/ the situation. For instance, I would use Chinese in a Chinese class.
 
 This assignment was especially fun because I got to record and constantly re-play a casual family lunch conversation. 
 
 ## Gesture
 
 Again, there are four key types of gestures:
-- Beat: These gestures are meant to give rhythm to the speech
-- Deictic: "pointing" gestures
-- Iconic: These are socially-established gestures like the 'peace' sign and waving to say hi.
-- Metaphoric: Abstract ideas are spatialised. For instance, where does the speaker point to when talking about the "past" or "future", and how could this be influence be language?
+- **Beat**: These gestures are meant to give rhythm to the speech
+- **Deictic**: "pointing" gestures
+- **Iconic**: These are socially-established gestures like the 'peace' sign and waving to say hi.
+- **Metaphoric**: Abstract ideas are spatialised. For instance, where does the speaker point to when talking about the "past" or "future", and how could this be influence be language?
 
 ## Remarks
 

@@ -14,7 +14,7 @@ TCP is a protocol used for reliable data transfer. For each piece of data that I
 
 ### Issues with long RTT communication
 
-When this communcation occurs over long physical distances (e.g. from Singapore to US), then the time taken for a message to reach US and then its ACK to return to Singapore is long. We call this the long RTT scenario.
+When this communcation occurs over long physical distances (e.g. from Singapore to US), then the time taken for a message to reach US and then its ACK to return to Singapore is long. We call this the long RTT (Round-Trip Time) scenario.
 
 In such a case, we would need to send a very large number of in-flight messages to counteract the effect of the long RTT and maintain the same throuhgput. However, having a lot of in-flight messages (e.g. 100k) also means that there has to be an in-memory tracker for all of these messages.
 
