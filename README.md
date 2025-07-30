@@ -17,7 +17,7 @@ nvm use 14`
 
 3. Install gatsby
 
-`sudo npm install -g gatsby-cli`
+`sudo npm install -g gatsby-cli@2`
 
 4. Clone repo and run `npm install`
 
