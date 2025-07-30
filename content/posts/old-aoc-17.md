@@ -2,7 +2,7 @@
 title: 2017 Advent of Code
 date: "2017-12-30"
 template: "post"
-draft: false
+draft: true
 slug: "aoc-17"
 category: "programming problems"
 tags:

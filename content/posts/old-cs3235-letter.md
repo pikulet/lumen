@@ -2,7 +2,7 @@
 title: Got a commendation letter from the Vice-Dean!
 date: "2020-06-25"
 template: "post"
-draft: false
+draft: true
 slug: "cs3235-letter"
 category: "achievement"
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Articulating Kubernetes
-date: "2022-03-30"
+date: "2021-06-30"
 template: "post"
-draft: false
+draft: true
 slug: "kubernetes"
 category: "cloud infrastructure"
 tags:

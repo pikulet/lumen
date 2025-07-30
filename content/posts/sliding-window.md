@@ -5,8 +5,6 @@ template: "post"
 draft: false
 slug: "stuck-sliding-window"
 category: "algorithm"
-tags:
-  - "advent of code"
 description: "Resolving the problem of static sliding windows"
 ---
 

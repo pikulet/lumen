@@ -4,46 +4,46 @@ template: "page"
 ---
 
 ### Shopee Singapore | Platform Engineer
-**May 2021 - Sep 2022**
+**2021 - 2022**
 
-* Developed ETL products for high-volume and multiplexed data flows between databases and MQ systems.
+* Developed a modular data synchronisation ecosystem for data flows between databases and message queues (MQ).
 * Improved the throughput for cross-continental database replication by 15x.
-* Led the development of migration tools for a system with 200+ **teams** as users, cutting maintenance hours per week by 10x.
-* Primarily using Golang, some scripting in Python.
+* Slashed the maintenance hours of a legacy MQ event center by 10x, by leading the migration to a new set of pipelines.
 
 ### GovTech Singapore | Cybersecurity Intern
-**May 2020 - Jul 2020**
+**2020**
 
 * Project topic: Assessing the feasibility of applying Homomorphic Encryption solutions to government systems
 * Wrote multiple C programs to measure the practical constraints of Microsoft SEAL (BFV)
 * Presented on the topic of Homomorphic Encryption and the project findings to 150+ staff at the Cybersecurity Group (CSG)
+* Offered a full-time job under a leadership programme (TAP)
 
 ### National University of Singapore | Teaching Assistant
-**Aug 2018 - Sep 2019**
+**2018 - 2019**
 
-* CS1101S Programming Methodology I (AY18/19 Sem1, Sem 2) - feedback 4.5/5.0
-* CP2106 Independent Software Development Project (AY18/19 Summer) - Best Advisor Award
+* CS1101S Programming Methodology I - feedback 4.5/5.0
+* CP2106 Independent Software Development Project - Best Advisor Award
 
 ### DSO National Laboratories | Research Intern (Cybersecurity)
-**May 2019 - Aug 2019**
+**2019**
 
 * Research topic: anti-analysis methods used by malware in Windows binaries
 * Wrote a self-debugging program in C that can run malicious payloads on multiple threads. This program cannot be debugged unless in kernel mode.
 * Presented the project to 50+ staff at the Computer Security Lab (CSL)
-* Offered the Scholarship for Aspiring Researchers (SOAR).
+* Offered the Scholarship for Aspiring Researchers (SOAR), a mid-term undergraduate scholarship.
 
 ### Roboto Academy | Curriculum Writer
-**Mar 2017 - Oct 2018**
+**2017 - 2018**
 
 * Wrote interactive programming courses on Web Development and Python. The curriculum has been used by more than 500 students.
 
 ### Ministry of Education | Mathematics and Physics Teacher
-**Jan 2017 - Mar 2017**
+**2017**
 
 * Offered the Ministry of Education Teaching Scholarship.
 
 ### DSO National Laboratories | Research Intern (Cryptography)
-**May 2015 - Aug 2015**
+**2015**
 
 * Research topic: customisations to the Advanced Encryption Standard (AES)
 * Wrote a C program that can perform affine transformations on the AES substitution box.

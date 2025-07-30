@@ -2,7 +2,7 @@
 title: Archive
 date: "2016-10-29"
 template: "post"
-draft: false
+draft: true
 slug: "essay-archive"
 category: "inquiry"
 description: "A collection of college admission essays"

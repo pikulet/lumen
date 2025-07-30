@@ -2,7 +2,7 @@
 title: High School Achievements
 date: "2016-12-31"
 template: "post"
-draft: false
+draft: true
 slug: "high-school"
 category: "achivement"
 tags:

@@ -28,13 +28,14 @@ Underlying assumptions should be precisely stated (for instance, that factoring 
 
 ### Cyclic Groups
 
-Diffie-Hellman mathematics is based on operations in cyclic groups. We first give an introduction to cyclic groups. Consider a generator `g` and a modulus `n`. The group `<g>` is defined as `<g, g^2, g^3, ..., > modulus n`.
+Diffie-Hellman mathematics is based on operations in cyclic groups. We first give an introduction to cyclic groups. Consider a generator `g` and a modulus `n`. The group `<g>` is defined as `<g, g², g³, ..., > modulus n`.
 
 ```
 Example: g = 3, n = 23, 
 
 then <g> 
-= <3, 3^2 mod 23, 3^3 mod 23 ... > 
+= <3, 3² mod 23, 3³ mod 23 ... > 
+= <3, 9 mod 23, 27 mod 23 ... > 
 = < 3, 9, 4, 12, 13, 16, 2, 6, 18, 8, 1 > 
 ```
 
@@ -46,22 +47,22 @@ To help relate group mathematics with the applications of the Diffie-Hellman Key
 
 **Discrete Logarithm (DL) Problem**
 
-> Given `x`, find `r` such that `x` = `g^r`. Example: Let `g = 3`, in modulus `23`. Given `x = 8`, find `r` such that `8 = 3^r mod 23`.
+> Given `x`, find `r` such that `x` = `gʳ`. Example: Let `g = 3`, in modulus `23`. Given `x = 8`, find `r` such that `8 = 3ʳ mod 23`.
 
 Since we have already generated the whole group earlier, we get r = 10. However, it is generally difficult to compute `r` without generating the entire group.
  
 **Computational Diffie-Hellman (CDH) Problem**
 
-> Given `g^a` and `g^b`, find `g^ab`. Example: Let `g = 3`, in modulus `23`. Given `3^a = 4`, `3^b = 16`, find `3^ab`.
+> Given `gᵃ` and `gᵇ`, find `gᵃᵇ`. Example: Let `g = 3`, in modulus `23`. Given `3ᵃ = 4`, `3ᵇ = 16`, find `3ᵃᵇ`.
 
 First, we solve for `a = 3` and `b = 6`. Then,
 
 ```
-3^ab 
-= 3^18 
-= 3^(11 + 7) 
-= 3^11 (3^7) 
-= 1 (3^7)
+3ᵃᵇ
+= 3¹⁸ 
+= 3⁽¹¹⁺⁷⁾
+= 3¹¹ (3⁷) 
+= 1 (3⁷) (mod 23)
 = 2 (mod 23)
 ```
 
@@ -69,9 +70,9 @@ Notice that we solved the DL problem to solve the CDH problem. Hence, DL is easy
  
 **Decisional Diffie-Hellman (DDH) Problem**
 
-> Given `g^a`, `g^b`, distinguish between a random `g^c` and `g^ab`. Example: Let `g = 3`, in modulus `23`. Given `3^a = 4`, `3^b = 12`. Now, given `8` and `3`, decide which is `g^ab` and which is `g^c`.
+> Given `gᵃ`, `gᵇ`, distinguish between a random `gᶜ` and `gᵃᵇ`. Example: Let `g = 3`, in modulus `23`. Given `3ᵃ = 4`, `3ᵇ = 12`. Now, given `8` and `3`, decide which is `gᵃᵇ` and which is `gᶜ`.
 
-We first solve for `a = 3` and `b = 4`, `3^ab = 3^12 = 3^11 (3) = 3`. Hence `3 = 3^ab` and `8 = g^c`.  We solved the CDH problem to solve the DDH problem. Hence, CDH is easy => DDH is easy.
+We first solve for `a = 3` and `b = 4`, `3ᵃᵇ = 3¹² = 3¹¹ (3) = 3`. Hence `3 = 3ᵃᵇ` and `8 = gᶜ`.  We solved the CDH problem to solve the DDH problem. Hence, CDH is easy => DDH is easy.
  
 By comparing the three problems, we have that `DL easy => CDH easy => DDH easy`. If we can efficiently calculate the discrete logarithm in a cyclic group, then we can also solve the CDH and DDH problems in that group. Considering the *contrapositive*, we have that `DDH hard => CDH hard => DL hard`.
 
@@ -85,12 +86,12 @@ In the Diffie-Hellman Key Exchange, the following events take place:
 
 1. Alice and Bob establish `g` and a modulus `n`, which is public. This defines the cyclic group.
 2. Alice and Bob each have a personal secret, `a` and `b`.
-3. Alice sends Bob `A = g^a` and Bob calculates `K = g^ab = A^b`. Bob now has the key `K`.
-4. Bob sends Alice `B = g^b` and Alice calculates `K = g^ab = B^a`. Alice now has the key `K`.
+3. Alice sends Bob `A = gᵃ` and Bob calculates `K = gᵃᵇ = Aᵇ`. Bob now has the key `K`.
+4. Bob sends Alice `B = gᵇ` and Alice calculates `K = gᵃᵇ = Bᵃ`. Alice now has the key `K`.
 
-Since the communication is still not encrypted, any eavesdropper can retrieve everything that Alice and Bob sent to each other: `g`, `n`, `A = g^a` and `B = g^b`. Given these values, the eavesdropper must find the key `K = g^ab`. This description is exactly the **CDH problem**. Minimally, we must use a mathematical group where the CDH problem is hard. We do not necessarily need a DDH-hard group, just a CDH-hard group.
+Since the communication is still not encrypted, any eavesdropper can retrieve everything that Alice and Bob sent to each other: `g`, `n`, `A = gᵃ` and `B = gᵇ`. Given these values, the eavesdropper must find the key `K = gᵃᵇ`. This description is exactly the **CDH problem**. Minimally, we must use a mathematical group where the CDH problem is hard. We do not necessarily need a DDH-hard group, just a CDH-hard group.
 
-A classic example of a group that is CDH-hard but not DDH-hard are the `Zp*` groups. Let `p` be a prime number, then `Zp* = { 1, 2, 3, 4, 5, ... , p - 1 }`.
+A classic example of a group that is CDH-hard but not DDH-hard are the `Zₚ*` groups. Let `p` be a prime number, then `Zₚ* = { 1, 2, 3, 4, 5, ... , p - 1 }`.
 
 Diffie-Hellman problems form the cryptographic foundation for many other applications, not just the key exchange protocol. However, if a cryptosystem scheme is designed based on the DDH problem, then the users must ensure that the DDH problem is hard in the cyclic group used.
 
@@ -98,13 +99,13 @@ Diffie-Hellman problems form the cryptographic foundation for many other applica
 
 However, in modern communication channels, eavesdropping is not the only problem. A CDH-hard group can only protect the key exchange from an eavesdropper. Attackers have other capabilities, such as interception.
 
-A middleman can create a new secret `c` and calculate `g^c`.
-- When Alice sends `g^a`, `M` intercepts it and sends Alice `g^c`. Alice communicates with `M` using `K_1 = g^ac`.
-- When Bob sends `g^b`, `M` intercepts it and sends Bob `g^c`. Bob communicates with `M` using `K_2 = g^bc`.
+A middleman can create a new secret `c` and calculate `gᶜ`.
+- When Alice sends `gᵃ`, `M` intercepts it and sends Alice `gᶜ`. Alice communicates with `M` using `K₁ = gᵃᶜ`.
+- When Bob sends `gᵇ`, `M` intercepts it and sends Bob `gᶜ`. Bob communicates with `M` using `K₂ = gᵇᶜ`.
 
-Alice will think that she is communicating with Bob using `K_1`. Bob will think he is talking to Alice using `K_2`.
+Alice will think that she is communicating with Bob using `K₁`. Bob will think he is talking to Alice using `K₂`.
 
-The problem is that the Diffie-Hellman Key Exchange protocol was never designed for authentication. The identities of both parties are never established. Even without the presence of `M`, Alice cannot confidently ascertain that the person she is talking to is indeed Bob. Authentication protocols can be used to establish that gb was indeed generated by the person Bob, such as using certificates for verification.
+The problem is that the Diffie-Hellman Key Exchange protocol was never designed for authentication. The identities of both parties are never established. Even without the presence of `M`, Alice cannot confidently ascertain that the person she is talking to is indeed Bob. Authentication protocols can be used to establish that `gᵇ` was indeed generated by the person Bob, such as using certificates for verification.
 
 ## Remarks
 

@@ -2,7 +2,7 @@
 title: Google Data Center Workshop
 date: "2019-12-20"
 template: "post"
-draft: false
+draft: true
 slug: "google-data-center-workshop"
 category: "events"
 tags:

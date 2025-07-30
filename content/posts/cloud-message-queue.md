@@ -2,9 +2,9 @@
 title: Asynchronous producer-consumer model
 date: "2021-09-23"
 template: "post"
-draft: false
-slug: "dead-letter-queue"
-category: "cloud computing"
+draft: true
+slug: "message-queue"
+category: "cloud infrastructure"
 tags:
  - "kafka"
 description: "An introduction to Message Queues (MQ)"

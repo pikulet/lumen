@@ -2,7 +2,7 @@
 title: Perception class presentations
 date: "2021-01-10"
 template: "post"
-draft: false
+draft: true
 slug: "perception-notes"
 category: "inquiry"
 tags:

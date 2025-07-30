@@ -2,7 +2,7 @@
 title: Google Cloud Platform (GCP) on Coursera
 date: "2020-09-20"
 template: "post"
-draft: false
+draft: true
 slug: "gcp-coursera"
 category: "cloud infrastructure"
 tags:

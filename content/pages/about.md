@@ -5,7 +5,7 @@ template: "page"
 
 Hello(:
 
-I'm a Computer Science graduate from the National University of Singapore. My primary interest is in **computer security**, **computer networks** and **distributed systems**. 
+I'm a Computer Science graduate from the National University of Singapore. My primary interest is in **cryptography** and **distributed systems**.
 
 > Check out some of my projects [here](/pages/projects/).
 
