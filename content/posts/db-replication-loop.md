@@ -6,7 +6,7 @@ draft: false
 slug: "cyclical-replication"
 category: "cloud infrastructure"
 tags:
-  - "database migration"
+  - "database"
 description: "Multi-master database replication"
 ---
 

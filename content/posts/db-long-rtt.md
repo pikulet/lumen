@@ -6,7 +6,7 @@ draft: false
 slug: "long-distance-migration"
 category: "cloud infrastructure"
 tags:
-  - "database migration"
+  - "database"
 description: "Improving the throughput of long RTT networks"
 ---
 

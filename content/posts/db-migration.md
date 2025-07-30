@@ -6,7 +6,7 @@ draft: false
 slug: "database-migration"
 category: "cloud infrastructure"
 tags:
-  - "database migration"
+  - "database"
 description: "Beyond the click of a button"
 ---
 
