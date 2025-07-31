@@ -1,6 +1,6 @@
 ---
 title: Diffie-Hellman Key Exchange Protocol
-date: "2023-01-10"
+date: "2023-03-10"
 template: "post"
 draft: false
 slug: "diffie-hellman-key-exchange"

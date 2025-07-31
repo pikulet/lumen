@@ -1,6 +1,6 @@
 ---
 title: Interactive Decision Theory
-date: "2022-09-20"
+date: "2022-12-20"
 template: "post"
 draft: false
 slug: "probability-book"

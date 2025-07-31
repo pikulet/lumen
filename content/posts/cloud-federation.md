@@ -1,6 +1,6 @@
 ---
 title: Kubernetes Cluster Federation
-date: "2023-02-13"
+date: "2023-09-13"
 template: "post"
 draft: false
 slug: "kubernetes-federation"

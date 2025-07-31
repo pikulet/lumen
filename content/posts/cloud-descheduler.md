@@ -1,6 +1,6 @@
 ---
 title: Balanced Scheduling in Kubernetes
-date: "2023-08-24"
+date: "2024-03-24"
 template: "post"
 draft: false
 slug: "kubernetes-descheduler"
@@ -15,7 +15,15 @@ description: "Use a de-scheduler to achieve balanced scheduling"
 
 Suppose we have four machines in our kubernetes cluster available to run our tasks. 
 
-There are two kinds of scheduling strategies involved, (a) compact and (b) dispersed. A compact strategy would always allocate tasks to the first machine, until it runs out of resources. A scheduler focussed on dispersion would judge the resource requirements, and fairly distribute it among the different machines (this is balanced scheduling).
+There are two kinds of scheduling strategies involved, (a) compact and (b) balanced. 
+
+A compact strategy would preferentially allocate tasks to the first machine, until it runs out of resources. 
+
+![Compact Scheduling](/media/descheduler-compact.png)
+
+A balanced strategy would judge the resource requirements, and fairly disperse it among the different machines.
+
+![Compact Scheduling](/media/descheduler-balanced.png)
 
 Both scheduling strategies aim to achieve different types of goals. A compact strategy will improve overall machine utilisation rates, and also allow for improved performance if processes are communicating locally. On the other hand, a balanced strategy would mean that machines are running with some CPU buffer available, allowing them to better handle burst traffic and I/O requests. 
 

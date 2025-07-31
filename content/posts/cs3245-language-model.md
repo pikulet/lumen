@@ -56,7 +56,7 @@ A combination of both criteria can be used. In both cases, an arbitrary threshol
 
 ### Computation optimisations
 
-Since the probabilities `(count / total number of tokens in language multiplied together many times)` end up very small, a logarithm operation is performed to prevent floating point errors.
+Since the probabilities `(count / total number of tokens in language multiplied together many times)` end up very small, a logarithm operation is performed to prevent floating point errors skewing the results.
 
 ### Remarks
 
