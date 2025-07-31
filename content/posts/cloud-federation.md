@@ -3,7 +3,7 @@ title: Kubernetes Cluster Federation
 date: "2023-02-13"
 template: "post"
 draft: false
-slug: "kubernetes"
+slug: "kubernetes-federation"
 category: "cloud infrastructure"
 tags:
   - "kubernetes"

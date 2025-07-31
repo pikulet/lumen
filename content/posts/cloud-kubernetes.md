@@ -3,7 +3,7 @@ title: Articulating Kubernetes
 date: "2021-06-30"
 template: "post"
 draft: true
-slug: "kubernetes"
+slug: "kubernetes-intro"
 category: "cloud infrastructure"
 tags:
   - "kubernetes"
